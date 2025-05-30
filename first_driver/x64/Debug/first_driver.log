@@ -1,0 +1,4 @@
+﻿  Building 'first_driver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\first_driver.inf
+  Stamping [Version] section with DriverVer=05/12/2025,12.15.29.500
+V:\My_Stuff\prog\Micro-cuckDrivers\first_driver\first_driver\first_driver\first_driver.inf : error 1297: Device driver does not install on any devices, use primitive driver if this is intended.
